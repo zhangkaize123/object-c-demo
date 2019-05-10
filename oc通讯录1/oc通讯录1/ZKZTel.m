@@ -20,6 +20,7 @@
         if (self.persons==nil)//如果读取失败就手动创建对象
         {
             self.persons=[NSMutableArray arrayWithCapacity:100];
+            //水电费施工队
         }
         //self.per=[[ZKZPerson alloc]init];
     }
