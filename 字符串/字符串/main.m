@@ -22,7 +22,7 @@ int main(int argc, const char * argv[]) {
         /*NSString*str=[[NSString alloc]initWithFormat:@"%d",123];
         NSLog(@"%@",str);
         NSString*str1=[[NSString alloc]initWithString:@"sfs"];
-        NSLog(@"%@",str1);
+        NSLog(@"%@",str1)asfsagfdsgfds;
         NSString*str3=[[NSString alloc]initWithUTF8String:"张凯泽"];
         NSLog(@"%@",str3);*/
         
