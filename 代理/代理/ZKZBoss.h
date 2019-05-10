@@ -8,6 +8,7 @@
 
 #import "ZKZPerson.h"
 #import "ZKZSec.h"
+//电饭锅的感受到
 @interface ZKZBoss : ZKZPerson
 @property(strong,nonatomic)ZKZSec*delegate;
 -(void)talk;
