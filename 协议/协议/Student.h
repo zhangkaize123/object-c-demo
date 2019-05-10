@@ -10,4 +10,5 @@
 #import"action.h"
 @interface Student : NSObject <action>
 @property (strong,nonatomic)NSString*name;
+//sdgdhgoihsfg
 @end
