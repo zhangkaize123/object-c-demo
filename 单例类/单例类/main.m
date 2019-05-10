@@ -20,7 +20,7 @@ int main(int argc, const char * argv[]) {
         ZKZUiapplication*app3=[[ZKZUiapplication alloc]init];
         if(app2==app3)
         {
-            NSLog(@"this is same !");
+            NSLog(@"this is same !sdhgsghds");
         }
         
     }
