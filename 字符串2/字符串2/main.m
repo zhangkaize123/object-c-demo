@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-
+//三国杀的勾当
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
         //1.大小写
