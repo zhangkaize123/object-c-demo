@@ -11,6 +11,6 @@
 @protocol action <NSObject>
 @required
 -(void)say;//必须实现的
-@optional//可以实现也可以不实现
+@optional//可以实现也可以不实现sgadghsd
 -(void)song;
 @end
