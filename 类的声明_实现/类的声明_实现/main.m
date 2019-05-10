@@ -38,6 +38,7 @@ int main(int argc, const char * argv[]) {
         //[ls setName:@"李四"andAge:22];
         li.name=@"zhang";
         li.age=23;
+        li.age = 45;
         //[ls say];
         li.say;
         
