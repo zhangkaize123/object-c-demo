@@ -11,4 +11,5 @@
 @interface ZKZBoss : ZKZPerson
 @property(strong,nonatomic)ZKZSec*delegate;
 -(void)talk;
+-(void)ttttt;
 @end
