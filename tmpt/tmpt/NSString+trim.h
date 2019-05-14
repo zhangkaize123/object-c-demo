@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-
+//x又修改了
 @interface NSString (trim)
 -(NSString*)trim;
 @end
