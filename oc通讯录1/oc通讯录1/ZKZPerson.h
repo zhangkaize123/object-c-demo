@@ -11,4 +11,5 @@
 @interface ZKZPerson : NSObject<NSCoding>
 @property(strong,nonatomic)NSString*name;
 @property(strong,nonatomic)NSString*tel;
+//sgdgdfgds
 @end
